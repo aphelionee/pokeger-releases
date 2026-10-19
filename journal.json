@@ -1,0 +1,6 @@
+{
+  "program": "Pokeger",
+  "about": "Every release of Pokeger ever published (spec 482). An installed Pokeger takes a release only when it stands here, under its version with the same SHA-512, and is not revoked.",
+  "releases": [],
+  "revoked": []
+}
