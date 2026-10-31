@@ -1,0 +1,16 @@
+{
+  "program": "Pokeger",
+  "about": "Every release of Pokeger ever published (spec 482). An installed Pokeger takes a release only when it stands here, under its version with the same SHA-512, and is not revoked.",
+  "releases": [
+    {
+      "program": "pokeger",
+      "version": "0.1.0-test.4",
+      "file": "Pokeger-Setup-0.1.0-test.4.exe",
+      "size": 98556277,
+      "sha512": "iwxK/SLN0qrd8Eqc8kp9futdobv2D/3WWfOU4LOEW6lZUwQy8Pmse9maZTPgdmEDUJPr6uoXrtCzek7scx5L2Q==",
+      "feed": "test",
+      "published": "2026-10-31T13:29:06.643Z"
+    }
+  ],
+  "revoked": []
+}
