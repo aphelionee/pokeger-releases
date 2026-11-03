@@ -19,6 +19,15 @@
       "sha512": "CT6RuAjDaJ4QLqc1TXjs/Ny0cHy09av5X7cXkoudC1Han7fyGTm3MUKSwB1jvpQfhnuFAQvmUqRO6PGjbmdeVw==",
       "feed": "test",
       "published": "2026-11-03T17:11:55.884Z"
+    },
+    {
+      "program": "pokeger",
+      "version": "0.1.0-test.6",
+      "file": "Pokeger-Setup-0.1.0-test.6.exe",
+      "size": 98685170,
+      "sha512": "9jdfBiGD5FqU3p+TlGLd4bVr1T8Q3r3hdH9lUX778FafiWo/WoPkGwU/vKv6y4icm0r8OKSlCe/ZlT+zlnmjYA==",
+      "feed": "test",
+      "published": "2026-11-03T19:51:17.462Z"
     }
   ],
   "revoked": []
