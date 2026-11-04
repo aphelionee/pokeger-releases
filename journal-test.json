@@ -28,6 +28,33 @@
       "sha512": "9jdfBiGD5FqU3p+TlGLd4bVr1T8Q3r3hdH9lUX778FafiWo/WoPkGwU/vKv6y4icm0r8OKSlCe/ZlT+zlnmjYA==",
       "feed": "test",
       "published": "2026-11-03T19:51:17.462Z"
+    },
+    {
+      "program": "pokeger",
+      "version": "0.1.0-test.7",
+      "file": "Pokeger-Setup-0.1.0-test.7.exe",
+      "size": 98686137,
+      "sha512": "I+7YWEsff5HY5MpRQW3ixLvhRJOhFd2JIge7PrWvIsim8lrKYyxJqKtMNwhqGncgUxS+ZQrQfdGqfE07Z6EQAA==",
+      "security": [
+        {
+          "name": "helper.ps1",
+          "sha256": "02d21154359c8ca6868672041e06ed2ab858414188c017f3e17ca01878e56b0a"
+        },
+        {
+          "name": "elevated.ps1",
+          "sha256": "6cce6429a399313cece0d179f10f9871e6ac17882b2625eae549584f27119ab8"
+        },
+        {
+          "name": "startup-switch.ps1",
+          "sha256": "2271cc797bc8869d8434dd501835d19314ea8159cf62dde13a2804c4b0ee6a7c"
+        },
+        {
+          "name": "close-process.ps1",
+          "sha256": "78a52fe0fe287103c283101dd97ab61cc8bb87eb2bf06bffa3e2c405c033f133"
+        }
+      ],
+      "feed": "test",
+      "published": "2026-11-04T09:52:02.124Z"
     }
   ],
   "revoked": []
