@@ -55,6 +55,33 @@
       ],
       "feed": "test",
       "published": "2026-11-04T09:52:02.124Z"
+    },
+    {
+      "program": "pokeger",
+      "version": "0.1.0-test.8",
+      "file": "Pokeger-Setup-0.1.0-test.8.exe",
+      "size": 98713331,
+      "sha512": "I2N9UziqZaJ9/ZcJQs8lPX6uFc2LKYIIWB0KYwgg1k9u6RmujMokNP25ObCVez5VlaVjSZJSXoLbzfGua3o0jA==",
+      "security": [
+        {
+          "name": "helper.ps1",
+          "sha256": "02d21154359c8ca6868672041e06ed2ab858414188c017f3e17ca01878e56b0a"
+        },
+        {
+          "name": "elevated.ps1",
+          "sha256": "6cce6429a399313cece0d179f10f9871e6ac17882b2625eae549584f27119ab8"
+        },
+        {
+          "name": "startup-switch.ps1",
+          "sha256": "2271cc797bc8869d8434dd501835d19314ea8159cf62dde13a2804c4b0ee6a7c"
+        },
+        {
+          "name": "close-process.ps1",
+          "sha256": "78a52fe0fe287103c283101dd97ab61cc8bb87eb2bf06bffa3e2c405c033f133"
+        }
+      ],
+      "feed": "test",
+      "published": "2026-11-04T10:26:40.509Z"
     }
   ],
   "revoked": []
